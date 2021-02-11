@@ -14,7 +14,7 @@ The code uses a series of functions to:
     + Vehicle manufacturing + disposal + recycling
     + Maintenance
     + Per-hour driver costs
-4. Use Gurobi and heuristics to solve a mixed-integer linear program that minimizes private (+ external) costs by optimizing the:
-    + Fleet vehicle mix (number of combustion, hybrid electric, and battery electric vehicles) 
-    + Fleet operations (vehicle routing and battery charging) 
+4. Use Gurobi and heuristics to solve a mixed-integer linear program that minimizes private (+ external) costs by optimizing:
+    + Purchases (number of combustion, hybrid electric, and battery electric vehicles in the fleet) 
+    + Operations (vehicle routing and battery charging) 
 5. Summarize results
