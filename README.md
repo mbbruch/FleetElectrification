@@ -1,4 +1,4 @@
-# Ridesourcing Fleet Electrification
+# Optimization of Ridesourcing Fleet Electrification
 
 This project explores how a centrally owned and operated fleet would optimally purchase and dispatch its vehicles. 
 
