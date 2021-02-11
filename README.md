@@ -2,7 +2,8 @@
 
 This project explores how a centrally owned and operated fleet would optimally purchase and dispatch its vehicles. 
 
-It also considers how those optimal choices change if the fleet pays the external costs of its life cycle air emissions: *Does a Pigovian tax on the impacts of pollution and climate change encourage electric vehicle usage? How much are those impacts reduced?*
+It also considers how those optimal choices change if the fleet pays the external costs of its life cycle air emissions.
+*Does a Pigovian tax on the impacts of pollution and climate change encourage electric vehicle usage? How much are those impacts reduced?*
 
 The code uses a series of functions to:
 1. Import the RideAustin ridesourcing trip dataset from 2016-2017
