@@ -1,0 +1,28 @@
+﻿case,fips,county,percent
+Austin,48029,bexar,0.003472012
+Austin,48039,brazoria,0.069304752
+Austin,48071,chambers,0.073272162
+Austin,48141,el paso,0.023287887
+Austin,48167,galveston,0.063427737
+Austin,48177,gonzales,0.001217957
+Austin,48201,harris,0.246322758
+Austin,48227,howard,0.012448434
+Austin,48233,hutchinson,0.025404968
+Austin,48245,jefferson,0.271413466
+Austin,48297,live oak,0.015242981
+Austin,48341,moore,0.033449874
+Austin,48355,nueces,0.147729888
+Austin,48423,smith,0.012787167
+Austin,48493,wilson,0.001217957
+NYC,42101,Philadelphia,0.278887779
+NYC,34039,Union,0.214785215
+NYC,42045,Delaware,0.158175158
+NYC,10003,New Castle,0.151681652
+NYC,34015,Gloucester,0.133200133
+NYC,42123,Warren,0.054112554
+NYC,42083,McKean,0.009157509
+LA,6013,contra costa,0.363477696
+LA,6029,kern,0.021664797
+LA,6037,los angeles,0.533218211
+LA,6083,santa barbara,0.005019892
+LA,6095,solano,0.076619404
