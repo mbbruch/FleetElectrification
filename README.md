@@ -7,14 +7,14 @@ It also considers how those optimal choices change if the fleet pays the externa
 The code uses a series of functions to:
 1. Import the RideAustin ridesourcing trip dataset from 2016-2017
 2. Construct a representative sample of ~5000 trips
-3. Read in estimates of private costs, and air emission external costs, of:
+3. Read in or estimate the private costs, and air emission external costs, of:
     + Vehicle purchases, including a discounted cash flow for each vehicle's future resale value that depends on age and usage rate
     + Gasoline combustion
     + Battery charging from the grid's marginal generator
     + Vehicle manufacturing + disposal + recycling
     + Maintenance
     + Per-hour driver costs
-4. Use Gurobi and heuristics to solve a mixed-integer linear program that minimizes private (+ external) costs by optimizing:
+4. Use Gurobi and heuristics to solve a mixed-integer linear program that minimizes costs by optimizing:
     + Purchases: number of combustion, hybrid electric, and battery electric vehicles in the fleet
     + Operations: vehicle routing and battery charging
 5. Summarize results
