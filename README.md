@@ -9,7 +9,7 @@ The code uses a series of functions to:
 1. Import the RideAustin ridesourcing trip dataset from 2016-2017
 2. Construct a representative sample of ~5000 trips
 3. Read in or estimate the private costs, and air emission external costs, of:
-    + Vehicle purchases, including a discounted cash flow for each vehicle's future resale value that depends on age and usage rate
+    + Vehicle purchases, including a discounted cash flow for each vehicle's future resale value that depends on age, usage rate, and powertrain
     + Gasoline combustion
     + Battery charging from the grid's marginal generator
     + Vehicle manufacturing + disposal + recycling
