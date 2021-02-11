@@ -15,6 +15,6 @@ The code uses a series of functions to:
     + Maintenance
     + Per-hour driver costs
 4. Solve a mixed-integer linear program, via Gurobi plus heuristics, to minimize the fleet's private (+ external) costs by optimizing its:
-  + Fleet vehicle mix (number of combustion, hybrid electric, and battery electric vehicles) 
-  + Fleet operations (vehicle routing and battery charging) 
+    + Fleet vehicle mix (number of combustion, hybrid electric, and battery electric vehicles) 
+    + Fleet operations (vehicle routing and battery charging) 
 5. Summarize results
