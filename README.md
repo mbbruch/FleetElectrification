@@ -19,7 +19,7 @@ The code uses a series of functions to:
     + Operations: vehicle routing and battery charging
 5. Summarize results
 
-<sup>*</sup>If this project is useful for your work, please consider citing it:
+<sup>*</sup>If you find this project useful, please cite it as:
 ```
 @article{doi:10.1021/acs.est.0c05141,
 author = {Bruchon, Matthew B. and Michalek, Jeremy J. and Azevedo, Inês L.},
