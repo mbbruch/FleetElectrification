@@ -1,6 +1,6 @@
 # Optimization of Ridesourcing Fleet Electrification
 
-This project contains the code used to run the experiments presented in the paper ["Effects of Air Emission Externalities on Optimal Ridesourcing Fleet Electrification and Operations."](https://pubs.acs.org/doi/pdf/10.1021/acs.est.0c05141)<sup>*</sup>
+This project contains the code used to run the experiments presented in the paper ["Effects of Air Emission Externalities on Optimal Ridesourcing Fleet Electrification and Operations."](https://pubs.acs.org/doi/pdf/10.1021/acs.est.0c05141)
 
 It explores how a centrally owned and operated fleet would optimally purchase and dispatch its vehicles. It also considers how those optimal choices change if the fleet pays the external costs of its life cycle air emissions. *Does a Pigovian tax on pollution and climate change impacts encourage electric vehicle usage? How much do emissions fall?*
 
@@ -19,7 +19,7 @@ The code uses a series of functions to:
     + Operations: vehicle routing and battery charging
 5. Summarize results
 
-<sup>*</sup>If you find this project useful, please cite it as:
+If you find this project useful, please cite it as:
 ```
 @article{doi:10.1021/acs.est.0c05141,
 author = {Bruchon, Matthew B. and Michalek, Jeremy J. and Azevedo, Inês L.},
