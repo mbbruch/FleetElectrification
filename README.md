@@ -5,7 +5,7 @@ This project contains code used to run experiments from the paper ["Effects of A
 It explores how a centrally owned and operated fleet would optimally purchase and dispatch its vehicles. It also considers how those optimal choices change if the fleet pays the external costs of its life cycle air emissions. *Does a Pigovian tax on pollution and climate change impacts encourage electric vehicle usage? How much do emissions fall?*
 
 The code uses a series of functions to:
-1. Import the RideAustin ridesourcing trip dataset from 2016-2017
+1. Import the [RideAustin ridesourcing trip dataset](https://data.world/ride-austin/ride-austin-june-6-april-13)
 2. Construct a representative sample of ~5000 trips
 3. Read in or estimate the private costs, and air emission external costs, of:
     + Vehicle purchases, including a discounted cash flow for each vehicle's future resale value that depends on age, usage rate, and powertrain
